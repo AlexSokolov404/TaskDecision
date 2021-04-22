@@ -1,0 +1,152 @@
+Uri: https://alexsokolik64.wixsite.com/task
+File Name: c:\Downloaded Web Sites\alexsokolik64.wixsite.com\task.html
+Content Type: text/html
+
+Uri: https://alexsokolik64.wixsite.com/task/problems
+File Name: c:\Downloaded Web Sites\alexsokolik64.wixsite.com\task\problems.html
+Content Type: text/html
+
+Uri: https://alexsokolik64.wixsite.com/task/blog
+File Name: c:\Downloaded Web Sites\alexsokolik64.wixsite.com\task\blog.html
+Content Type: text/html
+
+Uri: https://alexsokolik64.wixsite.com/task/news
+File Name: c:\Downloaded Web Sites\alexsokolik64.wixsite.com\task\news.html
+Content Type: text/html
+
+Uri: https://alexsokolik64.wixsite.com/task/event
+File Name: c:\Downloaded Web Sites\alexsokolik64.wixsite.com\task\event.html
+Content Type: text/html
+
+Uri: https://alexsokolik64.wixsite.com/task/forum
+File Name: c:\Downloaded Web Sites\alexsokolik64.wixsite.com\task\forum.html
+Content Type: text/html
+
+Uri: https://alexsokolik64.wixsite.com/task/our-team
+File Name: c:\Downloaded Web Sites\alexsokolik64.wixsite.com\task\our-team.html
+Content Type: text/html
+
+Uri: https://alexsokolik64.wixsite.com/task/about-us
+File Name: c:\Downloaded Web Sites\alexsokolik64.wixsite.com\task\about-us.html
+Content Type: text/html
+
+Uri: https://alexsokolik64.wixsite.com/task/new-problem
+File Name: c:\Downloaded Web Sites\alexsokolik64.wixsite.com\task\new-problem.html
+Content Type: text/html
+
+Uri: https://alexsokolik64.wixsite.com/task/profile/73d97ba1-f5cf-4043-b36b-8957832f5e09/profile
+File Name: c:\Downloaded Web Sites\alexsokolik64.wixsite.com\task\profile\73d97ba1-f5cf-4043-b36b-8957832f5e09\profile.html
+Content Type: text/html
+
+Uri: https://alexsokolik64.wixsite.com/task/post/в-поисках-поддержки-и-помощи-как-сделать-мир-лучше-уже-сейчас
+File Name: c:\Downloaded Web Sites\alexsokolik64.wixsite.com\task\post\в-поисках-поддержки-и-помощи-как-сделать-мир-лучше-уже-сейчас.html
+Content Type: text/html
+
+Uri: https://alexsokolik64.wixsite.com/task/post/улучшение-task-decision-при-помощи-ии
+File Name: c:\Downloaded Web Sites\alexsokolik64.wixsite.com\task\post\улучшение-task-decision-при-помощи-ии.html
+Content Type: text/html
+
+Uri: https://alexsokolik64.wixsite.com/task/post/инструкция-по-созданию-новой-задачи-на-task-dicision
+File Name: c:\Downloaded Web Sites\alexsokolik64.wixsite.com\task\post\инструкция-по-созданию-новой-задачи-на-task-dicision.html
+Content Type: text/html
+
+Uri: https://alexsokolik64.wixsite.com/task/event-details/dobavleniye-progressa-vypolneniya-zadachi
+File Name: c:\Downloaded Web Sites\alexsokolik64.wixsite.com\task\event-details\dobavleniye-progressa-vypolneniya-zadachi.html
+Content Type: text/html
+
+Uri: https://alexsokolik64.wixsite.com/task/event-details/golosovoy-poshchnik-na-task-decision
+File Name: c:\Downloaded Web Sites\alexsokolik64.wixsite.com\task\event-details\golosovoy-poshchnik-na-task-decision.html
+Content Type: text/html
+
+Uri: https://alexsokolik64.wixsite.com/task/forum/forum
+File Name: c:\Downloaded Web Sites\alexsokolik64.wixsite.com\task\forum\forum.html
+Content Type: text/html
+
+Uri: https://alexsokolik64.wixsite.com/task/forum/forum/obsuzhdenie
+File Name: c:\Downloaded Web Sites\alexsokolik64.wixsite.com\task\forum\forum\obsuzhdenie.html
+Content Type: text/html
+
+Uri: https://alexsokolik64.wixsite.com/task/profile/alexsokolik64/profile
+File Name: c:\Downloaded Web Sites\alexsokolik64.wixsite.com\task\profile\alexsokolik64\profile.html
+Content Type: text/html
+
+Uri: https://alexsokolik64.wixsite.com/task/forum/forum/sovety-i-hitrosti
+File Name: c:\Downloaded Web Sites\alexsokolik64.wixsite.com\task\forum\forum\sovety-i-hitrosti.html
+Content Type: text/html
+
+Uri: https://alexsokolik64.wixsite.com/task/forum/forum/ne-zabudte-predstavitsya
+File Name: c:\Downloaded Web Sites\alexsokolik64.wixsite.com\task\forum\forum\ne-zabudte-predstavitsya.html
+Content Type: text/html
+
+Uri: https://alexsokolik64.wixsite.com/task/forum/forum/vopros-otvet
+File Name: c:\Downloaded Web Sites\alexsokolik64.wixsite.com\task\forum\forum\vopros-otvet.html
+Content Type: text/html
+
+Uri: https://alexsokolik64.wixsite.com/task/profile/alexsokolik64/blog-posts
+File Name: c:\Downloaded Web Sites\alexsokolik64.wixsite.com\task\profile\alexsokolik64\blog-posts.html
+Content Type: text/html
+
+Uri: https://alexsokolik64.wixsite.com/task/profile/alexsokolik64/blog-comments
+File Name: c:\Downloaded Web Sites\alexsokolik64.wixsite.com\task\profile\alexsokolik64\blog-comments.html
+Content Type: text/html
+
+Uri: https://alexsokolik64.wixsite.com/task/profile/alexsokolik64/blog-likes
+File Name: c:\Downloaded Web Sites\alexsokolik64.wixsite.com\task\profile\alexsokolik64\blog-likes.html
+Content Type: text/html
+
+Uri: https://alexsokolik64.wixsite.com/task/profile/alexsokolik64/forum-comments
+File Name: c:\Downloaded Web Sites\alexsokolik64.wixsite.com\task\profile\alexsokolik64\forum-comments.html
+Content Type: text/html
+
+Uri: https://alexsokolik64.wixsite.com/task/profile/alexsokolik64/forum-posts
+File Name: c:\Downloaded Web Sites\alexsokolik64.wixsite.com\task\profile\alexsokolik64\forum-posts.html
+Content Type: text/html
+
+Uri: https://alexsokolik64.wixsite.com/task/profile/alexsokolik64/blank-1-2
+File Name: c:\Downloaded Web Sites\alexsokolik64.wixsite.com\task\profile\alexsokolik64\blank-1-2.html
+Content Type: text/html
+
+Uri: https://alexsokolik64.wixsite.com/task/profile/alexsokolik64/blank-1-3
+File Name: c:\Downloaded Web Sites\alexsokolik64.wixsite.com\task\profile\alexsokolik64\blank-1-3.html
+Content Type: text/html
+
+Uri: https://alexsokolik64.wixsite.com/task/blog/hashtags/Милота
+File Name: c:\Downloaded Web Sites\alexsokolik64.wixsite.com\task\blog\hashtags\Милота.html
+Content Type: text/html
+
+Uri: https://alexsokolik64.wixsite.com/task/blog/hashtags/Неожиданно
+File Name: c:\Downloaded Web Sites\alexsokolik64.wixsite.com\task\blog\hashtags\Неожиданно.html
+Content Type: text/html
+
+Uri: https://alexsokolik64.wixsite.com/task/blog/hashtags/Новый_год
+File Name: c:\Downloaded Web Sites\alexsokolik64.wixsite.com\task\blog\hashtags\Новый_год.html
+Content Type: text/html
+
+Uri: https://alexsokolik64.wixsite.com/task/blog/hashtags/NewYear
+File Name: c:\Downloaded Web Sites\alexsokolik64.wixsite.com\task\blog\hashtags\NewYear.html
+Content Type: text/html
+
+Uri: https://alexsokolik64.wixsite.com/task/blog/hashtags/Офис
+File Name: c:\Downloaded Web Sites\alexsokolik64.wixsite.com\task\blog\hashtags\Офис.html
+Content Type: text/html
+
+Uri: https://alexsokolik64.wixsite.com/task/blog/hashtags/Вечеринка
+File Name: c:\Downloaded Web Sites\alexsokolik64.wixsite.com\task\blog\hashtags\Вечеринка.html
+Content Type: text/html
+
+Uri: https://alexsokolik64.wixsite.com/task/blog/hashtags/Party
+File Name: c:\Downloaded Web Sites\alexsokolik64.wixsite.com\task\blog\hashtags\Party.html
+Content Type: text/html
+
+Uri: https://alexsokolik64.wixsite.com/task/blog/hashtags/Рады_всем
+File Name: c:\Downloaded Web Sites\alexsokolik64.wixsite.com\task\blog\hashtags\Рады_всем.html
+Content Type: text/html
+
+Uri: https://alexsokolik64.wixsite.com/task/blog/hashtags/ИИ
+File Name: c:\Downloaded Web Sites\alexsokolik64.wixsite.com\task\blog\hashtags\ИИ.html
+Content Type: text/html
+
+Uri: https://alexsokolik64.wixsite.com/task/blog/hashtags/Новые_возможности
+File Name: c:\Downloaded Web Sites\alexsokolik64.wixsite.com\task\blog\hashtags\Новые_возможности.html
+Content Type: text/html
+
